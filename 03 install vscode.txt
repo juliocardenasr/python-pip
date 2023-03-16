@@ -1,0 +1,4 @@
+install vscode
+
+instalar extensiones python oficial de microsoft
+extension wsl si estas en windows

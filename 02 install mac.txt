@@ -1,0 +1,9 @@
+python3
+# herramientas de codigo
+sudo xcode-select --install
+sudo xcode-select --reset
+
+sudo brew install python3
+
+cerrar terminal y volverla a abrir
+
